@@ -1,0 +1,8 @@
+
+@font-face {
+    font-family: 'mgopen_modataregular';
+    src: url('../fonts/mgopenmodataregular-webfont.woff2') format('woff2'),
+         url('../fonts/mgopenmodataregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
